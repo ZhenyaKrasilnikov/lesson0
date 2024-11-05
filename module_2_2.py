@@ -1,7 +1,7 @@
 print('Нет равных чисел. Вывод:0')
-first = int(input('введите число: '))
-second = int(input('введите число: '))
-third = int(input('введите число: '))
+first = (input('введите число: '))
+second = (input('введите число: '))
+third = (input('введите число: '))
 
 if first != second != third != first:
     print(0)
